@@ -3,11 +3,10 @@
 ## Demonstration Video
 
 <p align="center">
-  <a href="https://youtu.be/8Woyg90sMEw">
-    <img src="https://img.youtube.com/vi/8Woyg90sMEw/maxresdefault.jpg" alt="Watch Demo" width="90%"/>
-  </a>
-  <br/>
-  <i>▶️ Click to watch on YouTube</i>
+  <video width="95%" autoplay loop muted playsinline>
+    <source src="demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 # About

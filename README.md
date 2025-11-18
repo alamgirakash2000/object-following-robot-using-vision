@@ -1,7 +1,14 @@
 <h1 align ='center'>Object Following Robot Using Vision </h1>
 
 ## Demonstration Video
-### [Click Here](https://youtu.be/8Woyg90sMEw) to see the video on youtube.
+
+<p align="center">
+  <a href="https://youtu.be/8Woyg90sMEw">
+    <img src="https://img.youtube.com/vi/8Woyg90sMEw/maxresdefault.jpg" alt="Watch Demo" width="90%"/>
+  </a>
+  <br/>
+  <i>▶️ Click to watch on YouTube</i>
+</p>
 
 # About
 We have developed and submitted the Object Following Robot Using Vision as our project for the Control System Engineering Lab. 
